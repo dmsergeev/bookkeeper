@@ -154,7 +154,7 @@
     <spotbugs-annotations.version>3.1.1</spotbugs-annotations.version>
     <testcontainers.version>1.7.0</testcontainers.version>
     <twitter-server.version>1.29.0</twitter-server.version>
-    <vertx.version>3.4.1</vertx.version>
+    <vertx.version>3.8.0</vertx.version>
     <zookeeper.version>3.5.3-beta</zookeeper.version>
     <!-- plugin dependencies -->
     <apache-rat-plugin.version>0.12</apache-rat-plugin.version>
